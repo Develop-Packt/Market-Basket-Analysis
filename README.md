@@ -1,2 +1,5 @@
-# Market-Basket-Analysis
-Market basket analysis unlocks the underlying relationships between the items that customers purchase. By the end of this course, you should have a solid grasp of transaction data, the basic metrics that define the relationship between two items, the Apriori algorithm, and associations rules.
+# Market Basket Analysis
+[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Market-Basket-Analysis.svg)](https://github.com/Develop-Packt/Market-Basket-Analysis/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/Market-Basket-Analysis.svg)](https://github.com/Develop-Packt/Market-Basket-Analysis/network)
+[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/Market-Basket-Analysis.svg)](https://github.com/Develop-Packt/Market-Basket-Analysis/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Market-Basket-Analysis/pulls)
